@@ -7,7 +7,7 @@
 Thumbs.db
 .sass-cache
 
-stylesheets/
+stylesheets
 
 # large/disallowed file types
 # a CDN should be used for these
