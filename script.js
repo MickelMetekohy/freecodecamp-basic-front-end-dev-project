@@ -27,7 +27,7 @@
     target: opts.scrollSpyTarget,
     offset: opts.scrollSpyOffset,
   });
-
+  
   //form style
   $('.form-control').on('blur', function() {
     $(this).removeClass('set');
